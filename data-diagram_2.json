@@ -1,63 +1,63 @@
 [
    {
       "avg":{
-         "temperature":19.094545454545454,
-         "humidity":36.943636363636365
+         "temperature":30.094545454545454,
+         "humidity":45.943636363636365
       },
       "max":{
-         "temperature":19.2,
-         "humidity":37.5
+         "temperature":25.2,
+         "humidity":45
       },
       "min":{
-         "temperature":22,
-         "humidity":36.2
+         "temperature":23,
+         "humidity":33
       },
       "samples":55,
       "group":{
          "hour":18,
-         "day":5,
+         "day":10,
          "month":11,
          "year":2018
       }
    },
    {
       "avg":{
-         "temperature":19.22,
-         "humidity":36.08
+         "temperature":22.22,
+         "humidity":24.08
       },
       "max":{
-         "temperature":19.4,
-         "humidity":37.2
+         "temperature":23.4,
+         "humidity":28.2
       },
       "min":{
-         "temperature":19.1,
-         "humidity":35.8
+         "temperature":22.1,
+         "humidity":28.8
       },
       "samples":55,
       "group":{
          "hour":12,
-         "day":5,
+         "day":10,
          "month":11,
          "year":2018
       }
    },
    {
       "avg":{
-         "temperature":19.570909090909094,
-         "humidity":35.64181818181818
+         "temperature":34.570909090909094,
+         "humidity":23.64181818181818
       },
       "max":{
-         "temperature":19.8,
-         "humidity":36.7
+         "temperature":23.8,
+         "humidity":24.7
       },
       "min":{
-         "temperature":18.4,
-         "humidity":35.1
+         "temperature":23,
+         "humidity":23.1
       },
       "samples":55,
       "group":{
          "hour":6,
-         "day":5,
+         "day":10,
          "month":11,
          "year":2018
       }
@@ -78,7 +78,7 @@
       "samples":55,
       "group":{
          "hour":18,
-         "day":7,
+         "day":12,
          "month":11,
          "year":2018
       }
@@ -99,7 +99,7 @@
       "samples":55,
       "group":{
          "hour":12,
-         "day":7,
+         "day":12,
          "month":11,
          "year":2018
       }
@@ -120,7 +120,7 @@
       "samples":55,
       "group":{
          "hour":6,
-         "day":7,
+         "day":12,
          "month":11,
          "year":2018
       }
